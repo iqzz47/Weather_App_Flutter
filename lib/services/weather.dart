@@ -28,6 +28,7 @@ Future<dynamic> getCityWeather2(String Cityname) async {
 }
 
 
+
 void fetchWeatherData(String cityName) async {
   // Use your weather API service to fetch data for the selected city
 
